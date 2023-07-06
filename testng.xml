@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cogmento Test Automation">
+
+	<test name="Cogmento Test Cases Execution">
+		<classes>
+			<class name="com.cogmento.qa.testcases.LoginPageTest"></class>
+			<class name="com.cogmento.qa.testcases.ForgotPasswordTest"></class>
+			<class name="com.cogmento.qa.testcases.HomePageTest"></class>
+			<class name="com.cogmento.qa.testcases.ContactsPageTest"></class>
+		</classes>
+	</test>
+</suite> 
+ 
